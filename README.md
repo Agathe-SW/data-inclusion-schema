@@ -16,7 +16,7 @@ Le schéma définit les structures de l'insertion et devraient à terme inclure 
 
 Le schéma est pour le moment formalisé dans le format JSON schema. Nous veillions néanmoins à maintenir la possibilité de représenter les données au format csv.
 
-La documentation détaillée du schéma est disponible [ici](https://app.gitbook.com/o/-LumF4j8whrJ3iKwLJ6f/s/8F5IpX18jjDR1Iawzsnj/schemas-de-donnees-de-loffre/schema-des-structures-dinsertion).
+La documentation détaillée du schéma est disponible [ici](https://www.data.inclusion.beta.gouv.fr/schemas-de-donnees-de-loffre/schema-des-structures-dinsertion).
 
 ## Consolidation
 
